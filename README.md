@@ -1,3 +1,3 @@
 ## Hello World
 
-It's a real crappy day out there.
+It's actually, not that crappy of a day out there.
